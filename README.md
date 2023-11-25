@@ -1,5 +1,8 @@
 https://expo.dev/accounts/eolnardo/projects/wine-shee/
 
+# Figma
+https://www.figma.com/file/VUuIa5bOxjIvGa087uxfy5/Projeto-Figma--Vinhos?type=design&mode=design&t=gaUgfmIajJQwAorn-1
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
