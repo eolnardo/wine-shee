@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "crabby-red-scones",
-    "slug": "snack-9895d59a-b393-4503-b662-58cc325357b6",
+    "name": "aula_11_reactnavigation",
+    "slug": "snack-e684e96c-743b-4f20-86b7-d06f5cd5e7ba",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Mostrando o funcionamento básico do React Navigation"
   }
 }
