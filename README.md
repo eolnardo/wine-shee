@@ -1,5 +1,3 @@
-https://expo.dev/accounts/eolnardo/projects/wine-shee/
-
 # Figma
 https://www.figma.com/file/VUuIa5bOxjIvGa087uxfy5/Projeto-Figma--Vinhos?type=design&mode=design&t=gaUgfmIajJQwAorn-1
 
